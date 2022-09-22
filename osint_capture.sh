@@ -1,4 +1,10 @@
 #!/bin/bash
+# Syntax: ./osint_capture.sh domain.com
+# assetfinder install with Go or sudo apt install assetfinder
+# subfinder install with Go or sudo apt install subfinder
+# httprobe install with Go or sudo apt install httprobe
+# Remember to apt-get update first!
+# Gowitness doesn't seem to work with the latest go versions https://gist.github.com/nikhita/432436d570b89cab172dcf2894465753
 
 domain=$1
 RED="\033[1;31m"
