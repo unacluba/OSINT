@@ -1,1 +1,3 @@
-# OSINT will contain information/tools I have gathered to conduct OSINT research with. 
+# OSINT
+
+A collection of tools/information I have used to conduct OSINT research with.
